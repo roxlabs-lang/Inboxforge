@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude sensitive encrypted tokens from plain backups -->
+    <exclude domain="sharedpref" path="secure_inboxforge_prefs.xml" />
+</full-backup-content>

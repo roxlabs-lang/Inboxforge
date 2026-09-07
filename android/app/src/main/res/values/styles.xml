@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Application Theme -->
+    <style name="Theme.InboxForge" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorPrimaryVariant">@color/brand_primary_variant</item>
+        <item name="colorSecondary">@color/brand_secondary</item>
+        <item name="android:statusBarColor">@color/status_bar_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/nav_bar_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <!-- Native Splash Screen Theme -->
+    <style name="Theme.InboxForge.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/status_bar_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/nav_bar_dark</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- InboxForge Brand Colors -->
+    <color name="brand_primary">#6366F1</color>
+    <color name="brand_primary_variant">#4F46E5</color>
+    <color name="brand_secondary">#EC4899</color>
+    <color name="brand_accent">#38BDF8</color>
+    
+    <!-- Obsidian Dark Theme Surfaces -->
+    <color name="background_dark">#09090B</color>
+    <color name="surface_dark">#0F172A</color>
+    <color name="status_bar_dark">#09090B</color>
+    <color name="nav_bar_dark">#09090B</color>
+
+    <!-- Crisp Light Theme Surfaces -->
+    <color name="background_light">#F8FAFC</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="status_bar_light">#F8FAFC</color>
+    <color name="nav_bar_light">#F8FAFC</color>
+
+    <!-- Launcher Icon Colors -->
+    <color name="ic_launcher_bg">#09090B</color>
+</resources>
